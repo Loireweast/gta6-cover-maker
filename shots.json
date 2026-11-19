@@ -1,5 +1,1 @@
-[
-  { "name": "1-cover.jpg", "query": "?shot=cover&photo=pier&caption=Sunset%20Heist", "w": 1080, "h": 1080 },
-  { "name": "2-editor.jpg", "query": "?shot=editor&photo=boulevard&caption=Boulevard%20Queen", "w": 1280, "h": 720 },
-  { "name": "3-cover.jpg", "query": "?shot=cover&photo=boulevard&caption=Boulevard%20Queen", "w": 1080, "h": 1080 }
-]
+[{"h":1080,"name":"1-cover.jpg","query":"?shot=cover&size=square&layout=grid&grade=sunset&photos=pier,boulevard,pier&title=SUNSET%20HEIST&subtitle=ONE%20LAST%20SCORE","w":1080},{"h":720,"name":"2-editor.jpg","query":"?shot=editor&size=square&layout=grid&grade=sunset&photos=boulevard,pier,boulevard&title=BOULEVARD%20QUEEN&subtitle=NEON%20NIGHTS","w":1280},{"h":1280,"name":"3-tall.jpg","query":"?shot=cover&size=tall&layout=four&grade=neon&photos=pier,boulevard,pier,boulevard&title=NEON%20GETAWAY&subtitle=CHASE%20THE%20LIGHT","w":1024},{"h":720,"name":"4-wide.jpg","query":"?shot=cover&size=wide&layout=strips&grade=sunset&photos=boulevard,pier,boulevard&title=MIDNIGHT%20RUN&subtitle=THE%20CITY%20NEVER%20SLEEPS","w":1280}]
